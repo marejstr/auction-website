@@ -1,4 +1,4 @@
-## Auction web-application back-end programmed with Django. 
+## Auction web-application programmed with Django. 
 
 Users can register and log into the application, create new and edit auctions and bid on
 other auctions. When the auction deadline passes, the winner is automatically informed by
